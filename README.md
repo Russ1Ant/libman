@@ -1,0 +1,2 @@
+# libman
+manages lib operations.
